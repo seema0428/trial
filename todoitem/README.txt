@@ -3,14 +3,14 @@ TodoItem API Service:
 This a simple REST service, It allows to perform CRUD actions on basic resources, like TodoItem entity, and retrieve them as JSON respond.
 
 How to Build:
-clone the repository $ git clone
+clone the repository $ git clone https://github.com/seema0428/trial.git
 then project-maven-updateproject
 
 $ mvn clean install
 
 How to run?
 
-clone the repository $ git clone
+clone the repository $ git clone https://github.com/seema0428/trial.git
 
 run this class as java application
 
@@ -42,11 +42,12 @@ http://localhost:8080/swagger-ui-custom.html
 Technology stack:
 Java 8
 Spring Boot
-Spring Boot DataJpa
+Spring DataJpa
 Swagger
 Tomcat server (for local deployment)
 JUnit
 maven
+H2 DB
 
 
 

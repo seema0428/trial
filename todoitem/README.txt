@@ -32,9 +32,8 @@ To run the testcases: $ mvn test
 This class will run all the test cases unit and integration testing.
 
 
-Documentation
-Swagger 2
-For rendering the documentation of the API Swagger 2 with Open Api(3.0.1) implementation was used.
+Documentation:
+ The generation of API documentation springdoc-openapi with Open Api(3.0.1) implementation was used.
 
 When the application is running, type in a browser:
 http://localhost:8080/swagger-ui-custom.html
